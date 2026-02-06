@@ -6,3 +6,7 @@ Third changes on VisualCode
 Third.2 changes on VisualCode
 Forth Changes on web/github
 Fifth changes on visual
+print("Hello World on github!")
+For i in range(1,8):
+  print(i);
+  
